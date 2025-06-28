@@ -26,7 +26,7 @@
 ---
 
 ## 📊 GitHub Stats
-
+![Shivam's GitHub Contribution Snake](https://github.com/ShivamThokal/ShivamThokal/blob/output/github-contribution-grid-snake.svg)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShivamThokal&theme=tokyonight&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamThokal&layout=compact&theme=tokyonight)
 
