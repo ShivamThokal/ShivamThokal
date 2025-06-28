@@ -1,5 +1,8 @@
 <!--
 **ShivamThokal/ShivamThokal** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShivamThokal&theme=tokyo-night)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShivamThokal&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
 -->
 
 # 👋 Hi, I'm Shivam Thokal
@@ -26,9 +29,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Shivam's GitHub Contribution Snake](https://github.com/ShivamThokal/ShivamThokal/blob/output/github-contribution-grid-snake.svg)
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShivamThokal&theme=tokyonight&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamThokal&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShivamThokal&theme=tokyonight&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamThokal&layout=compact&theme=tokyonight&langs_count=8)
+
+
 
 ---
 
