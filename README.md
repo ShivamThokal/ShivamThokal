@@ -18,6 +18,10 @@
 - 📫 Reach me at: **mail.shivam.thokal@gmail.com**
 
 ---
+## Resume
+📄 [My Resume](https://github.com/ShivamThokal/ShivamThokal/blob/main/Resume_Shivam_Thokal.pdf.pdf)
+
+---
 
 ## 🛠 Tech Stack
 
