@@ -77,8 +77,8 @@
 
 Feel free to reach out for collaborations, projects, or just to connect!
 
-📧 Email: **mail.shivam.thokal@gmail.com**  
-🌐 GitHub: [ShivamThokal](https://github.com/ShivamThokal)
-
+📧 Email: **mail.shivam.thokal@gmail.com**  <br>
+🌐 GitHub: [ShivamThokal](https://github.com/ShivamThokal) <br> 
+💼 LinkedIn: [ShivamThokal](https://www.linkedin.com/in/shivamdthokal)
 ---
 
