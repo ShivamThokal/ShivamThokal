@@ -12,7 +12,7 @@
 ---
 
 ## Resume
-📄 [My Resume](https://github.com/ShivamThokal/ShivamThokal/blob/main/Shivam_Thokal.pdf.pdf)
+📄 [My Resume](https://github.com/ShivamThokal/ShivamThokal/blob/main/Shivam_Thokal.pdf)
 
 ---
 
